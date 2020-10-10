@@ -108,4 +108,4 @@ py run.py
 - ...
  
 ## *Reference*
-The dataset `lang_id.npz`, image demonstrating `RNN`, and project skeleton is archieved from [cs188.ml](https://cs188.ml/).
+The dataset `lang_id.npz`, image demonstrating `RNN`, and project skeleton are from [cs188.ml](https://cs188.ml/).
