@@ -44,7 +44,7 @@ class LanguageClassificationModel(object):
         acc = 0
         alpha = -0.05
         count = 0
-        while acc < 0.85:
+        while acc < 0.86:
             for xs, y in dataset.iterate_once(100):
                 loss = self.get_loss(xs, y)
                 grad_w, grad_w_h1, grad_w_h2, grad_w_f = nn.gradients(

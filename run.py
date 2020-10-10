@@ -41,7 +41,7 @@ def main():
         result = language_classifier.run(xs)
         probs = data._softmax(result.data)
         max_prob, pred_lang = get_predicted_language(probs[0])
-        print("predicted language is: {}, with a confidence of {}\n".format(pred_lang, max_prob))
+        print("predicted language is: {}, with a confidence of {:%}\n".format(pred_lang, max_prob))
 
 if __name__ == "__main__":
     main()
