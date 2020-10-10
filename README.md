@@ -61,31 +61,31 @@ epoch 6 iteration 153 validation-accuracy 84.2%
 
 #### Test Results:
 ```
-test set accuracy is: 82.600000%
+test set accuracy is: 83.800000%
 ```
 
 #### User Input:
 ```
 word: tervetuloa # welcome
-predicted language: Finnish, with a confidence of 0.77517001095889
+predicted language is: Finnish, with a confidence of 80.011147%
 
 word: ciudades # cities
-predicted language: Spanish, with a confidence of 0.7819368805612461
+predicted language is: Spanish, with a confidence of 88.442353%
 
 word: właź # hatch
-predicted language: Polish, with a confidence of 0.9998444417193914
+predicted language is: Polish, with a confidence of 99.979566%
 
 word: algorithm
-predicted language: English, with a confidence of 0.6666650441382473
+predicted language is: English, with a confidence of 79.893499%
 
 word: resolution
-predicted language: English, with a confidence of 0.9736242759913325
+predicted language is: English, with a confidence of 94.786443%
 
 word: ademt # breathe
-predicted language: Dutch, with a confidence of 0.4039277463090043
+predicted language is: Dutch, with a confidence of 47.399565%
 
 word: invitar # invite
-predicted language: Spanish, with a confidence of 0.9746682109092223
+predicted language is: Spanish, with a confidence of 93.986880%
 ```
 
 ## Dependencies
