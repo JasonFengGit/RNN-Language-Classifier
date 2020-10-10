@@ -7,7 +7,7 @@ It is purely implemented with numpy and build-in libraries.
 
 
 ## Model Architecture
-![](https://im.ezgif.com/tmp/ezgif-1-b66f7f4f112a.png)
+![](https://raw.githubusercontent.com/JasonFengGit/RNN-Language-Classifier/master/nnn.png)
 - Input Layer: 47 nodes representing 47 different characters
 - First Hidden Layer: 100 nodes
 - Second Hidden Layer: 100 nodes
