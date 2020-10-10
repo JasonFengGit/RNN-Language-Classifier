@@ -2,8 +2,8 @@
 A Language Classifier powered by [Recurrent Neural Network(RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network) implemented in Python without AI libraries.
 
 ## Features
-The classifier classifies a word in English, Spanish, Finnish, Dutch, or Polish. The classifier outputs correctly at a rate of approximately 85%. 
-It is purely implemented with numpy and build-in libraries.
+The classifier classifies a word in **English**, **Spanish**, **Finnish**, **Dutch**, or **Polish**. The classifier outputs correctly at a rate of approximately 85%. 
+It is purely implemented with numpy and built-in libraries.
 
 
 ## Model Architecture
