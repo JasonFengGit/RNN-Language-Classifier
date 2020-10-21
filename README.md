@@ -15,7 +15,7 @@ It is purely implemented with numpy and built-in libraries.
 
 The technique used in this project is called  [Recurrent Neural Network(RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network):<br/>
 <br/><img src="https://cs188.ml/assets/images/rnn.png" height="150px"/><br/><br/>
-Here, an RNN is used to encode the word “cat” into a fixed-size vector h3.
+Here, an RNN is used to encode the word “c-a-t” into a fixed-size vector h3.
 
 ## Sample Run
 #### Training until validation accuracy achieve a certain level:
