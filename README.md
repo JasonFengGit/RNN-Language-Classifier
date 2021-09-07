@@ -7,10 +7,7 @@ It is purely implemented with numpy and built-in libraries.
 
 
 ## Model Architecture
-![](https://github.com/JasonFengGit/RNN-Language-Classifier/raw/master/nn_architecture.png)
 - Input Layer: 47 nodes representing 47 different characters
-- First Hidden Layer: 100 nodes
-- Second Hidden Layer: 100 nodes
 - Output Layer: 5 nodes representing 5 languages
 
 The technique used in this project is called  [Recurrent Neural Network(RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network):<br/>
